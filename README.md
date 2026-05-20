@@ -251,13 +251,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Advanced analytics dashboard
 - [ ] Multi-language support
 
-## 📞 Support
-
-For issues or questions, please open an [issue](https://github.com/YOUR_USERNAME/coffee-app/issues) on GitHub.
 
 ## 👨‍💻 Author
 
-Created with ☕ by [Your Name]
+Created with ☕ by Dilmi
 
 ---
 
